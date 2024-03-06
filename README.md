@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-# Brendan Gasparin's Github
+# Brendan Gasparin
+
+**`Developer, writer, content creator, entrepreneur.`**
 
 <!--
 **BrendanGasparin/BrendanGasparin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
