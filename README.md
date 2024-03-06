@@ -20,24 +20,11 @@ Brendan lives with his best friend [Buddy the Beagador](https://brendangasparin.
 
 ## Languages and Tools
 
-<div style="display:flexbox;">
-    <div style="height:50px;width:50px;border-color:red;">
-      <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" style="display:block;width:30px;height:auto;margin-left:auto;margin-right:auto;" />
-        <br />
-        <figcaption style="display:block;text-align:center;">HTML5</figcaption>
-      </figure>
-    </div>
-        <div style="height:50px;width:50px;border-color:red;">
-      <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="HTML5" style="display:block;width:30px;height:auto;margin-left:auto;margin-right:auto;" />
-        <br />
-        <figcaption style="display:block;text-align:center;">HTML5</figcaption>
-      </figure>
-    </div>
-<div>
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width=30 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3" style="width:30%;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" style="width:30%;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" style="width:30%" />
 
 <!--
 **BrendanGasparin/BrendanGasparin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
