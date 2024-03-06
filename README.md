@@ -28,6 +28,13 @@ Brendan lives with his best friend [Buddy the Beagador](https://brendangasparin.
         <figcaption style="display:block;text-align:center;">HTML5</figcaption>
       </figure>
     </div>
+        <div style="height:50px;width:50px;border-color:red;">
+      <figure>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="HTML5" style="display:block;width:30px;height:auto;margin-left:auto;margin-right:auto;" />
+        <br />
+        <figcaption style="display:block;text-align:center;">HTML5</figcaption>
+      </figure>
+    </div>
 <div>
 
 
