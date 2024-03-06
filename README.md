@@ -43,6 +43,7 @@ Brendan can be found at the following [online hangouts](https://linktr.ee/brenda
   <img src="https://logodix.com/logo/995507.png" alt="Apple" width=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" alt="Apache" width=40 />
+  <img src="https://freepngimg.com/thumb/wordpress_logo/13-2-wordpress-logo-picture.png" alt="WordPress" width=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="Git" width=40 />
   <img src="https://www.shareicon.net/data/512x512/2015/09/15/101512_logo_512x512.png" alt="GitHub" width=40 />
