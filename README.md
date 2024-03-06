@@ -2,13 +2,19 @@
 
 # Brendan Gasparin
 
+---
+
 **`Developer, writer, content creator, entrepreneur.`**
+
+---
+
+## Auto-biography strangely written in 3rd person
 
 Brendan is an independent developer, writer, content creator, and entrepreneur from Tasmania, Australia. He believes in the power of technology to affect positive change in the world and people's lives.
 
-Currently, Brendan is running a small [web development business](https://cyborgplatypus.com.au/) and a [tech blog](https://brendangasparin.com.au). He is also learning through freeCodeCamp, The Odin Project, CS50x, and has other secret side projects in the works.
+Currently, Brendan is running a small [web development business](https://cyborgplatypus.com.au/) and a [tech blog](https://brendangasparin.com.au/blog/). He is also learning through freeCodeCamp, The Odin Project, CS50x, and has other secret side projects in the works.
 
-Brendan lives with his best friend [Buddy the Beagador](https://brendangasparin.github.io/buddy/), who is also an accomplished web developer.
+Brendan lives with his best friend [Buddy the Beagador](https://brendangasparin.github.io/buddy/), who is also an accomplished web coder.
 
 <!--
 **BrendanGasparin/BrendanGasparin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
