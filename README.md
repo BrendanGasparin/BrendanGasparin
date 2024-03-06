@@ -38,6 +38,7 @@ Brendan lives with his best friend [Buddy the Beagador](https://brendangasparin.
 
 <div style="display:flexbox;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width=40 />
+  <img src="https://logodix.com/logo/995507.png" alt="Apple" width=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" alt="Apache" width=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width=40 />
