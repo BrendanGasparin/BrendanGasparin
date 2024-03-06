@@ -20,11 +20,11 @@ Brendan lives with his best friend [Buddy the Beagador](https://brendangasparin.
 
 ## Languages and Tools
 
-<div style="display: flexbox;">
-    <div style="width: 20px; height: 20px;">
+<div style="display:flexbox;">
+    <div style="width:20px;height:20px;">
       <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" height="20" width="20" style="display: block-inline;" />
-        <figcaption style="display:block-inline; text-align: center;">HTML 5</figcaption>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" height="20" width="20" style="display:block;" />
+        <figcaption style="display:block;text-align:center;">HTML 5</figcaption>
       </figure>
     </div>
 <div>
