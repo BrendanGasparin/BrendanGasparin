@@ -18,7 +18,7 @@ Brendan lives with his best friend [Buddy the Beagador](https://brendangasparin.
 
 ---
 
-## Languages and Tools
+## Languages and Frameworks
 
 <div style="display:flexbox;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width=30 />
@@ -30,6 +30,12 @@ Brendan lives with his best friend [Buddy the Beagador](https://brendangasparin.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C plus plus" width=30 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C Sharp" width=30 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" alt="Python" width=30 />
+</div>
+
+## Tools
+
+<div style="display:flexbox;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width=30 />
 </div>
 
 <!--
