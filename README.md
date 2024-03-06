@@ -8,13 +8,15 @@
 
 ---
 
-## Autobiography strangely written in 3rd person
+## Biography
 
 Brendan is an independent developer, writer, content creator, and entrepreneur from Tasmania, Australia. He believes in the power of technology to affect positive change in the world and people's lives.
 
-Currently, Brendan is running a small [web development business](https://cyborgplatypus.com.au/) and a [tech blog](https://brendangasparin.com.au/blog/). He is also learning through freeCodeCamp, The Odin Project, CS50x, and has other secret side projects in the works.
+Brendan is running a small [web development business](https://cyborgplatypus.com.au/) and writing weekly articles for his [tech blog](https://brendangasparin.com.au/blog/). He has other secret side projects in the works. He is learning through [freeCodeCamp](https://freecodecamp.org/), [The Odin Project](https://www.theodinproject.com/), [CS50x](https://cs50.harvard.edu/x/), and other platforms.
 
-Brendan lives with his best friend [Buddy the Beagador](https://brendangasparin.github.io/buddy/), who is also an accomplished web coder.
+Brendan lives with his best friend [Buddy the Beagador](https://brendangasparin.github.io/buddy/), who is an accomplished web coder who enjoys chewing and sniffing things.
+
+Brendan can be found at the following [online hangouts](https://linktr.ee/brendangasparin).
 
 ---
 
