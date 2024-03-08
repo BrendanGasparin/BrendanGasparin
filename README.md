@@ -7,7 +7,8 @@
 ---
 
 ## Portfolio
-[brendangasparin.com.au](https://brendangasparin.com.au)
+[brendangasparin.com.au](https://brendangasparin.com.au): My personal website. Built with WordPress.
+[Cyborg Platypus](https://cyborgplatypus.com.au): My web design business.
 
 ---
 
