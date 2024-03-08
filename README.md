@@ -6,6 +6,11 @@
 
 ---
 
+## Portfolio
+[brendangasparin.com.au](https://brendangasparin.com.au)
+
+---
+
 ## Biography
 
 Brendan is an independent developer, writer, content creator, and entrepreneur from Tasmania, Australia. He believes in the power of technology to affect positive change in the world and people's lives.
