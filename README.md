@@ -10,9 +10,14 @@
 [Cyborg Platypus](https://cyborgplatypus.com.au): My web development and graphic design business.<br />
 [Brendan Gasparin's Tech Blog](https://brendangasparin.com.au/blog/): My blog.<br />
 [Odin Calculator](https://brendangasparin.github.io/odin-calculator/): A calculator written in HTML, CSS, and JavaScript.<br />
+[Rock Paper Scissors](https://brendangasparin.github.io/rock-paper-scissors/): Rock, Paper, Scissors written in HTML, CSS, and JavaScript.<br />
 [Etch-a-Sketch web app](https://brendangasparin.github.io/etch-a-sketch/): An Etch-a-Sketch web app written in HTML, CSS, and JavaScript.</br>
 [Griffin Flight Simulator](https://scratch.mit.edu/projects/679806917/): A video game I wrote in Scratch.<br />
 [My CSS art of the Pokemon Gastly](https://brendangasparin.github.io/css-gastly/): Written in HTML and CSS.<br />
+[Google Home Page Mockup](https://brendangasparin.github.io/google-homepage/): A fake Google homepage written in HTML and CSS.<br />
+[Scratch's Big Adventure](https://scratch.mit.edu/projects/392011129/): Another game I made in Scratch.<br />
+[C Tutorial](https://brendangasparin.github.io/c-tutorial/) and [HTML Tutorial](https://brendangasparin.github.io/html-tutorial/): Both written in HTML and CSS.
+[ROT-13 Converter](https://brendangasparin.github.io/rot13-js/): Convert messages to and from the ROT-13 cipher. HTML, CSS, JavaScript.
 
 ---
 
@@ -24,7 +29,7 @@ I'm running a small [web development startup business](https://cyborgplatypus.co
 
 Education is a virtue. I have a Bachelor's Degree in Computing from the University of Tasmania and I'm now self-learning through [freeCodeCamp](https://freecodecamp.org/), [The Odin Project](https://www.theodinproject.com/), [CS50x](https://cs50.harvard.edu/x/), and other platforms.
 
-I live with my best friend [Buddy the Beagador](https://brendangasparin.github.io/buddy/). He is an accomplished web coder who enjoys chewing, sniffing things, bench-surfing, and eating.
+I live with my best friend [Buddy the Beagador](https://brendangasparin.github.io/buddy/). He is an accomplished web coder who enjoys chewing, sniffing things, and bench-surfing for food.
 
 I can be found at the following [online hangouts](https://linktr.ee/brendangasparin).
 
@@ -60,7 +65,7 @@ I can be found at the following [online hangouts](https://linktr.ee/brendangaspa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" alt="Godot" width=60 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" width=60 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original-wordmark.svg" alt="GIMP" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="GIMP" width=60 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width=60 />
 </div>
 
 <!--
