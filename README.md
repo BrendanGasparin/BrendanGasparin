@@ -11,7 +11,6 @@
 [Odin Calculator](https://brendangasparin.github.io/odin-calculator/): A calculator written in HTML, CSS, and JavaScript.<br />
 [Etch-a-Sketch web app](https://brendangasparin.github.io/etch-a-sketch/): An Etch-a-Sketch web app written in HTML, CSS, and JavaScript.</br>
 [Griffin Flight Simulator](https://scratch.mit.edu/projects/679806917/): A video game I wrote in Scratch.<br />
-[My Github Pages Website](https://brendangasparin.github.io): Written in HTML and CSS. This one is from a while ago so pardon me if it looks kind of chunky and bad on mobiles.<br />
 [My CSS art of the Pokemon Gastly](https://brendangasparin.github.io/css-gastly/): Written in HTML and CSS.<br />
 
 ---
