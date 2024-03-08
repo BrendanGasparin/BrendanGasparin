@@ -1,26 +1,32 @@
 # Brendan Gasparin
 
 ---
-
 **`Developer, writer, content creator, entrepreneur.`**
-
 ---
 
 ## Portfolio
 [brendangasparin.com.au](https://brendangasparin.com.au): My personal website. Built with WordPress.<br />
-[Cyborg Platypus](https://cyborgplatypus.com.au): My web design business.
+[Cyborg Platypus](https://cyborgplatypus.com.au): My web development and graphic design business.<br />
+[Brendan Gasparin's Tech Blog](https://brendangasparin.com.au/blog/): My blog.<br />
+[Odin Calculator](https://brendangasparin.github.io/odin-calculator/): A calculator written in HTML, CSS, and JavaScript.<br />
+[Etch-a-Sketch web app](https://brendangasparin.github.io/etch-a-sketch/): An Etch-a-Sketch web app written in HTML, CSS, and JavaScript.</br>
+[Griffin Flight Simulator](https://scratch.mit.edu/projects/679806917/): A video game I wrote in Scratch.<br />
+[My Github Pages Website](https://brendangasparin.github.io): Written in HTML and CSS. This one is from a while ago so pardon me if it looks kind of chunky and bad on mobiles.<br />
+[My CSS art of the Pokemon Gastly](https://brendangasparin.github.io/css-gastly/): Written in HTML and CSS.<br />
 
 ---
 
 ## Biography
 
-Brendan is an independent developer, writer, content creator, and entrepreneur from Tasmania, Australia. He believes in the power of technology to affect positive change in the world and people's lives.
+I am an independent developer, writer, content creator, and entrepreneur from Tasmania, Australia. I strongly believe in the power of technology to affect positive change in the world and people's lives.
 
-Brendan is running a small [web development business](https://cyborgplatypus.com.au/) and writing weekly articles for his [tech blog](https://brendangasparin.com.au/blog/). He has other secret side projects in the works. He is learning through [freeCodeCamp](https://freecodecamp.org/), [The Odin Project](https://www.theodinproject.com/), [CS50x](https://cs50.harvard.edu/x/), and other platforms.
+I'm running a small [web development startup business](https://cyborgplatypus.com.au/) and writing weekly articles for my [tech blog](https://brendangasparin.com.au/blog/) and [free weekly tech newsletter](https://brendangasparin.com.au/subscribe/). I have other secret side projects in the works too.
 
-Brendan lives with his best friend [Buddy the Beagador](https://brendangasparin.github.io/buddy/), who is an accomplished web coder who enjoys chewing and sniffing things.
+Education is a virtue. I have a Bachelor's Degree in Computing from the University of Tasmania and I'm now self-learning through [freeCodeCamp](https://freecodecamp.org/), [The Odin Project](https://www.theodinproject.com/), [CS50x](https://cs50.harvard.edu/x/), and other platforms.
 
-Brendan can be found at the following [online hangouts](https://linktr.ee/brendangasparin).
+I live with my best friend [Buddy the Beagador](https://brendangasparin.github.io/buddy/). He is an accomplished web coder who enjoys chewing, sniffing things, bench-surfing, and eating.
+
+I can be found at the following [online hangouts](https://linktr.ee/brendangasparin).
 
 ---
 
