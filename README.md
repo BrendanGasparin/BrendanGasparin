@@ -16,8 +16,8 @@
 [My CSS art of the Pokemon Gastly](https://brendangasparin.github.io/css-gastly/): Written in HTML and CSS.<br />
 [Google Home Page Mockup](https://brendangasparin.github.io/google-homepage/): A fake Google homepage written in HTML and CSS.<br />
 [Scratch's Big Adventure](https://scratch.mit.edu/projects/392011129/): Another game I made in Scratch.<br />
-[C Tutorial](https://brendangasparin.github.io/c-tutorial/) and [HTML Tutorial](https://brendangasparin.github.io/html-tutorial/): Both written in HTML and CSS.
-[ROT-13 Converter](https://brendangasparin.github.io/rot13-js/): Convert messages to and from the ROT-13 cipher. HTML, CSS, JavaScript.
+[C Tutorial](https://brendangasparin.github.io/c-tutorial/) and [HTML Tutorial](https://brendangasparin.github.io/html-tutorial/): Both written in HTML and CSS.<br />
+[ROT-13 Converter](https://brendangasparin.github.io/rot13-js/): Convert messages to and from the ROT-13 cipher. HTML, CSS, JavaScript.<br />
 
 ---
 
