@@ -2,6 +2,7 @@
 
 ---
 **`Developer, writer, content creator, entrepreneur.`**
+
 ---
 
 ## Portfolio
