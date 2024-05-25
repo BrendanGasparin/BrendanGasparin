@@ -6,8 +6,8 @@
 ---
 
 ## Portfolio
-[brendangasparin.com.au](https://brendangasparin.com.au): My personal website. Built with WordPress.<br />
-[Cyborg Platypus](https://cyborgplatypus.com.au): My web development and graphic design business.<br />
+[brendangasparin.com.au](https://brendangasparin.com.au): My personal website, built with WordPress.<br />
+[Cyborg Platypus](https://cyborgplatypus.com.au): My web development and graphic design business, built with Wordpress and Mautic email marketing software.<br />
 [Brendan Gasparin's Tech Blog](https://brendangasparin.com.au/blog/): My blog.<br />
 [Odin Calculator](https://brendangasparin.github.io/odin-calculator/): A calculator written in HTML, CSS, and JavaScript.<br />
 [PHP Login System](https://github.com/brendangasparin/php-login-system/): A login system written in PHP, JavaScript, HTML, and CSS, with a MySQL database.<br />
@@ -18,13 +18,13 @@
 [Google Home Page Mockup](https://brendangasparin.github.io/google-homepage/): A fake Google homepage written in HTML and CSS.<br />
 [Scratch's Big Adventure](https://scratch.mit.edu/projects/392011129/): Another game I made in Scratch.<br />
 [C Tutorial](https://brendangasparin.github.io/c-tutorial/) and [HTML Tutorial](https://brendangasparin.github.io/html-tutorial/): Both written in HTML and CSS.<br />
-[ROT-13 Converter](https://brendangasparin.github.io/rot13-js/): Convert messages to and from the ROT-13 cipher. HTML, CSS, JavaScript.<br />
+[ROT-13 Converter](https://brendangasparin.github.io/js-rot13/): Convert messages to and from the ROT-13 cipher. HTML, CSS, JavaScript.<br />
 
 ---
 
 ## Biography
 
-I am an independent developer, writer, content creator, and entrepreneur from Tasmania, Australia. I strongly believe in the power of technology to affect positive change in the world and people's lives.
+I am a cybersecurity enthusiast and independent developer, writer, content creator, and entrepreneur. I live in Tasmania, Australia. I strongly believe in the power of technology to affect positive change in the world and people's lives.
 
 I'm running a small [web development startup business](https://cyborgplatypus.com.au/) and writing weekly articles for my [tech blog](https://brendangasparin.com.au/blog/) and [free weekly tech newsletter](https://brendangasparin.com.au/subscribe/). I have other secret side projects in the works too.
 
@@ -68,6 +68,14 @@ I can be found at the following [online hangouts](https://linktr.ee/brendangaspa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original-wordmark.svg" alt="GIMP" width=60 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width=60 />
 </div>
+
+---
+
+## Curated lists
+
+[Cybersecurity YouTubers](https://github.com/BrendanGasparin/list-cybersecurity-youtubers): A curated list of YouTubers with content focused on cybersecurity.<br />
+[Hacking YouTubers](https://github.com/BrendanGasparin/list-hacking-youtubers): A curated list of YouTubers with content focused on hacking and penetration testing.<br />
+[Programming YouTubers](https://github.com/BrendanGasparin/list-programming-youtubers): A curated list of YouTubers with content focused on programming.<br />
 
 <!--
 **BrendanGasparin/BrendanGasparin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
