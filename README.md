@@ -6,26 +6,34 @@
 ---
 
 ## Portfolio
+
+### Web Development and Web Apps
+
 [brendangasparin.com.au](https://brendangasparin.com.au): My personal website, built with WordPress.<br />
 [Cyborg Platypus](https://cyborgplatypus.com.au): My web development and graphic design business, built with Wordpress and Mautic email marketing software.<br />
 [Brendan Gasparin's Tech Blog](https://brendangasparin.com.au/blog/): My blog.<br />
 [Odin Calculator](https://brendangasparin.github.io/odin-calculator/): A calculator written in HTML, CSS, and JavaScript.<br />
 [PHP Login System](https://github.com/brendangasparin/php-login-system/): A login system written in PHP, JavaScript, HTML, and CSS, with a MySQL database.<br />
-[Rock Paper Scissors](https://brendangasparin.github.io/rock-paper-scissors/): Rock, Paper, Scissors written in HTML, CSS, and JavaScript.<br />
 [Etch-a-Sketch web app](https://brendangasparin.github.io/etch-a-sketch/): An Etch-a-Sketch web app written in HTML, CSS, and JavaScript.</br>
-[Griffin Flight Simulator](https://scratch.mit.edu/projects/679806917/): A video game I wrote in Scratch.<br />
-[My CSS art of the Pokemon Gastly](https://brendangasparin.github.io/css-gastly/): Written in HTML and CSS.<br />
+[CSS art of the Pokemon Gastly](https://brendangasparin.github.io/css-gastly/): CSS animation written in HTML and CSS.<br />
 [Google Home Page Mockup](https://brendangasparin.github.io/google-homepage/): A fake Google homepage written in HTML and CSS.<br />
-[Scratch's Big Adventure](https://scratch.mit.edu/projects/392011129/): Another game I made in Scratch.<br />
 [C Tutorial](https://brendangasparin.github.io/c-tutorial/) and [HTML Tutorial](https://brendangasparin.github.io/html-tutorial/): Both written in HTML and CSS.<br />
 [ROT-13 Converter](https://brendangasparin.github.io/js-rot13/): Encrypt plaintext using the ROT-13 cipher. HTML, CSS, JavaScript.<br />
+
+### Games
+
+[Rock Paper Scissors](https://brendangasparin.github.io/rock-paper-scissors/): Rock, Paper, Scissors written in HTML, CSS, and JavaScript.<br />
+[Berzerk clone](https://scratch.mit.edu/projects/984200658/): A clone of 1980 video game Berzerk, made with Scratch and my own art assets.<br />
+[Griffin Flight Simulator](https://scratch.mit.edu/projects/679806917/): A side-scrolling bullet hell game I made on MIT's Scratch platform.<br />
+[Scratch's Big Adventure](https://scratch.mit.edu/projects/392011129/): The first full game I ever made in Scratch.<br />
 
 ---
 
 ## I'm currently working on:
 [PHP Social Network](https://github.com/BrendanGasparin/php-social-network): A free and open source social network web application written in HTML, CSS, JavaScript, AJAX, PHP, and SQL.<br />
-[Google Cybersecurity Professional certification](https://www.coursera.org/professional-certificates/google-cybersecurity): I am trying to get certified as a cybersecurity professional.<br />
-[CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science): I am taking Hardvard's CS50 course online, as it is an excellent way to brush up on C, Python, SQL, and web development languages.<br />
+[JavaScript Pac-Man](https://brendangasparin.github.io/js-pac-man): A simple Pac-Man clone written in JavaScript, CSS, and HTML.<br />
+[Google Cybersecurity Professional certification](https://www.coursera.org/professional-certificates/google-cybersecurity): I am training to become a cybersecurity professional.<br />
+[CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science): I am taking Hardvard's CS50 course online, as it is an excellent way to brush up on C, Python, SQL, and web development languages, as well as general data structures and algorithms.<br />
 
 ---
 
