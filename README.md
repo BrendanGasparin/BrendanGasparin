@@ -23,8 +23,8 @@
 ### Games
 
 [Rock Paper Scissors](https://brendangasparin.github.io/rock-paper-scissors/): Rock, Paper, Scissors written in HTML, CSS, and JavaScript.<br />
-[Berzerk clone](https://scratch.mit.edu/projects/984200658/): A clone of 1980 video game Berzerk, made with Scratch and my own art assets.<br />
-[Griffin Flight Simulator](https://scratch.mit.edu/projects/679806917/): A side-scrolling bullet hell game I made on MIT's Scratch platform.<br />
+[Berzerk clone](https://scratch.mit.edu/projects/984200658/): A clone of 1980 video game Berzerk, made with MIT's Scratch platform and my own art assets.<br />
+[Griffin Flight Simulator](https://scratch.mit.edu/projects/679806917/): A side-scrolling bullet hell game I made on using Scratch.<br />
 [Scratch's Big Adventure](https://scratch.mit.edu/projects/392011129/): The first full game I ever made in Scratch.<br />
 
 ---
