@@ -24,11 +24,11 @@
 
 ## Biography
 
-I am a cybersecurity enthusiast and independent developer, writer, content creator, and entrepreneur. I live in Tasmania, Australia. I strongly believe in the power of technology to affect positive change in the world and people's lives.
+I am a cybersecurity enthusiast, independent developer, writer, and content creator. I live in Tasmania, Australia. I strongly believe in the power of technology to affect positive change in the world and people's lives.
 
-I'm running a small [web development startup business](https://cyborgplatypus.com.au/) and writing weekly articles for my [tech blog](https://brendangasparin.com.au/blog/) and [free weekly tech newsletter](https://brendangasparin.com.au/subscribe/). I have other secret side projects in the works too.
+I'm running a small [web development startup business](https://cyborgplatypus.com.au/) and writing articles for my [tech blog](https://brendangasparin.com.au/blog/) and [free tech newsletter](https://brendangasparin.com.au/subscribe/). I also write code for at least an hour a day, and am undertaking the Google Cybersecurity Professional certification.
 
-Education is vital. I have a Bachelor's Degree in Computing from the University of Tasmania and I'm now self-learning through [freeCodeCamp](https://freecodecamp.org/), [The Odin Project](https://www.theodinproject.com/), [CS50x](https://cs50.harvard.edu/x/), and other platforms.
+Education is vital. I have a Bachelor's Degree in Computing from the University of Tasmania and am self-learning through [freeCodeCamp](https://freecodecamp.org/), [The Odin Project](https://www.theodinproject.com/), [CS50x](https://cs50.harvard.edu/x/), and other platforms.
 
 I live with my best friend [Buddy the Beagador](https://brendangasparin.github.io/buddy/). He is an accomplished web coder who enjoys chewing, sniffing things, and bench-surfing for food.
 
