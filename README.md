@@ -1,7 +1,7 @@
 # Brendan Gasparin
 
 ---
-**`Developer, writer, content creator, entrepreneur.`**
+**`Developer, cybersecurity enthusiast, writer, content creator.`**
 
 ---
 
@@ -32,6 +32,7 @@
 ## I'm currently working on:
 [PHP Social Network](https://github.com/BrendanGasparin/php-social-network): A free and open source social network web application written in HTML, CSS, JavaScript, AJAX, PHP, and SQL.<br />
 [JavaScript Pac-Man](https://brendangasparin.github.io/js-pac-man): A simple Pac-Man clone written in JavaScript, CSS, and HTML.<br />
+[Tic-Tac-Toe](https://github.com/BrendanGasparin/c-tic-tac-toe): I'm writing a Tic-Tac-Toe game in the C language. Two player games are implemented, but I want to create an AI player with various difficulty levels.<br />
 [Google Cybersecurity Professional certification](https://www.coursera.org/professional-certificates/google-cybersecurity): I am training to become a cybersecurity professional.<br />
 [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science): I am taking Hardvard's CS50 course online, as it is an excellent way to brush up on C, Python, SQL, and web development languages, as well as general data structures and algorithms.<br />
 
@@ -88,9 +89,9 @@ I can be found at the following [online hangouts](https://linktr.ee/brendangaspa
 
 ## Curated lists
 
-[Cybersecurity YouTubers](https://github.com/BrendanGasparin/list-cybersecurity-youtubers): A curated list of YouTuber channels with content focused on cybersecurity.<br />
-[Hacking YouTubers](https://github.com/BrendanGasparin/list-hacking-youtubers): A curated list of YouTuber channels with content focused on hacking and penetration testing.<br />
-[Programming YouTubers](https://github.com/BrendanGasparin/list-programming-youtubers): A curated list of YouTube channels with content focused on programming and software development.<br />
+[Cybersecurity YouTube Channels](https://github.com/BrendanGasparin/list-cybersecurity-youtube): A curated list of YouTuber channels with content focused on cybersecurity.<br />
+[Hacking and Penetration Testing YouTube Channels](https://github.com/BrendanGasparin/list-hacking-youtube): A curated list of YouTuber channels with content focused on hacking and penetration testing.<br />
+[Programming YouTube Chennels](https://github.com/BrendanGasparin/list-programming-youtube): A curated list of YouTube channels with content focused on programming and software development.<br />
 
 <!--
 **BrendanGasparin/BrendanGasparin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
