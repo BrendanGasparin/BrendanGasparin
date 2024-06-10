@@ -89,9 +89,9 @@ I can be found at the following [online hangouts](https://linktr.ee/brendangaspa
 
 ## Curated lists
 
-[Cybersecurity YouTube Channels](https://github.com/BrendanGasparin/list-cybersecurity-resources): A curated list of resources with content focused on cybersecurity.<br />
-[Hacking and Penetration Testing YouTube Channels](https://github.com/BrendanGasparin/list-hacking-resources): A curated list of resources with content focused on hacking and penetration testing.<br />
-[Programming YouTube Chennels](https://github.com/BrendanGasparin/list-programming-resources): A curated list of resources with content focused on programming and software development.<br />
+[Cybersecurity Resources](https://github.com/BrendanGasparin/list-cybersecurity-resources): A curated list of resources with content focused on cybersecurity.<br />
+[Hacking and Penetration Testing Resources](https://github.com/BrendanGasparin/list-hacking-resources): A curated list of resources with content focused on hacking and penetration testing.<br />
+[Programming and Development Resources](https://github.com/BrendanGasparin/list-programming-resources): A curated list of resources with content focused on programming and software development.<br />
 
 <!--
 **BrendanGasparin/BrendanGasparin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
