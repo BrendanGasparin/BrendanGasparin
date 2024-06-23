@@ -9,6 +9,7 @@
 
 ### Cybersecurity Projects
 
+[PHP Login System](https://github.com/brendangasparin/php-login-system/): A login system written in PHP, JavaScript, HTML, and CSS, with a MySQL database. Stores securely hashed passwords to protect authentication credentials in case of database breaches, and uses PHP PDO as a database access layer with placeholders to prevent SQL injection.  
 [Strong Password Generator in C](https://github.com/brendangasparin/c-password-generator): A strong password generator written in the C programming language. This is a console program that you must git clone and compile in order to use. Challenges included taking user input for the password length without allowing them to cause an input buffer overfllow.  
 [Strong Password Generator in JavaScript](https://brendangasparin.github.io/js-password-generator): A strong password generator written in HTML, CSS, and JavaScript. This allows users to generate passwords from a live web interface. After I made the app I realised phone users couldn't easily cut and paste the generated passwords, so a challenge I faced was implementing a button that allows users to copy the generated password to their clipboard for reuse.  
 [ROT-13 Converter](https://brendangasparin.github.io/js-rot13/): Encrypt plaintext using the ROT-13 cipher. Written in HTML, CSS, and JavaScript.  
@@ -19,7 +20,6 @@
 [Cyborg Platypus](https://cyborgplatypus.com.au): My web development and graphic design business, built with Wordpress and Mautic email marketing software.  
 [Brendan Gasparin's Tech Blog](https://brendangasparin.com.au/blog/): My blog.  
 [Odin Calculator](https://brendangasparin.github.io/odin-calculator/): A calculator written in HTML, CSS, and JavaScript.  
-[PHP Login System](https://github.com/brendangasparin/php-login-system/): A login system written in PHP, JavaScript, HTML, and CSS, with a MySQL database.  
 [Etch-a-Sketch web app](https://brendangasparin.github.io/etch-a-sketch/): An Etch-a-Sketch web app written in HTML, CSS, and JavaScript.  
 [CSS art of the Pokemon Gastly](https://brendangasparin.github.io/css-gastly/): CSS animation written in HTML and CSS.  
 [Google Home Page Mockup](https://brendangasparin.github.io/google-homepage/): A fake Google homepage written in HTML and CSS.  
