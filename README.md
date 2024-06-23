@@ -93,11 +93,12 @@ I can be found at the following [online hangouts](https://linktr.ee/brendangaspa
 
 ---
 
-## Curated lists
+## Curated Content
 
 [Cybersecurity Resources](https://github.com/BrendanGasparin/list-cybersecurity-resources): A curated list of resources with content focused on cybersecurity.  
 [Hacking and Penetration Testing Resources](https://github.com/BrendanGasparin/list-hacking-resources): A curated list of resources with content focused on hacking and penetration testing.  
 [Programming and Development Resources](https://github.com/BrendanGasparin/list-programming-resources): A curated list of resources with content focused on programming and software development.  
+[B's All Ages Mixtape](https://open.spotify.com/playlist/0OL4b2g6leYS86XMA71uqy?si=5293ad9cf45543bc): A curated Spotify playlist of songs that are safe to play around children (i.e. no explicit content). 13 hours long.  
 
 <!--
 **BrendanGasparin/BrendanGasparin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
