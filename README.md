@@ -7,6 +7,12 @@
 
 ## Portfolio
 
+### Cybersecurity Projects
+
+[Strong Password Generator in C](https://github.com/brendangasparin/c-password-generator): A strong password generator written in the C programming language. This is a console program that you must compile in order to use. Challenges included taking user input for the password length without allowing them to cause an input buffer overfllow.  
+[Strong Password Generator in JavaScript](https://brendangasparin.github.io/js-password-generator): A strong password generator written in HTML, CSS, and JavaScript. This allows users to generate passwords from a live web interface. After I made the app I realised phone users couldn't easily cut and paste the generated passwords, so a challenge I faced was implementing a button that allows users to copy the generated password to their clipboard.  
+[ROT-13 Converter](https://brendangasparin.github.io/js-rot13/): Encrypt plaintext using the ROT-13 cipher. Written in HTML, CSS, and JavaScript.  
+
 ### Web Development and Web Apps
 
 [brendangasparin.com.au](https://brendangasparin.com.au): My personal website, built with WordPress.<br />
@@ -18,7 +24,6 @@
 [CSS art of the Pokemon Gastly](https://brendangasparin.github.io/css-gastly/): CSS animation written in HTML and CSS.<br />
 [Google Home Page Mockup](https://brendangasparin.github.io/google-homepage/): A fake Google homepage written in HTML and CSS.<br />
 [C Tutorial](https://brendangasparin.github.io/c-tutorial/) and [HTML Tutorial](https://brendangasparin.github.io/html-tutorial/): Both written in HTML and CSS.<br />
-[ROT-13 Converter](https://brendangasparin.github.io/js-rot13/): Encrypt plaintext using the ROT-13 cipher. HTML, CSS, JavaScript.<br />
 
 ### Games
 
