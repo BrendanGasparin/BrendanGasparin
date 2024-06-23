@@ -21,6 +21,7 @@
 [Brendan Gasparin's Tech Blog](https://brendangasparin.com.au/blog/): My blog.  
 [Odin Calculator](https://brendangasparin.github.io/odin-calculator/): A calculator written in HTML, CSS, and JavaScript.  
 [Etch-a-Sketch web app](https://brendangasparin.github.io/etch-a-sketch/): An Etch-a-Sketch web app written in HTML, CSS, and JavaScript.  
+[Buddy's Homepage](https://brendangasparin.github.io/buddy/): My dog wrote his own homepage. I had to help with the CSS because dogs have dichromatic vision.  
 [CSS art of the Pokemon Gastly](https://brendangasparin.github.io/css-gastly/): CSS animation written in HTML and CSS.  
 [Google Home Page Mockup](https://brendangasparin.github.io/google-homepage/): A fake Google homepage written in HTML and CSS.  
 [C Tutorial](https://brendangasparin.github.io/c-tutorial/) and [HTML Tutorial](https://brendangasparin.github.io/html-tutorial/): Both written in HTML and CSS.  
