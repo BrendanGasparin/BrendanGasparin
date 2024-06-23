@@ -35,6 +35,7 @@
 ---
 
 ## I'm currently working on:
+[100 Days of Code](https://github.com/BrendanGasparin/100-days-of-code/blob/main/log.md): A challenge in which you must code for at least one hour every day, tweet your progress and log it on Github, and encourage at least two other participants a day who are using the #100DaysOfCode hashtag on Twitter/X.  
 [PHP Social Network](https://github.com/BrendanGasparin/php-social-network): A free and open source social network web application written in HTML, CSS, JavaScript, AJAX, PHP, and SQL.<br />
 [JavaScript Pac-Man](https://brendangasparin.github.io/js-pac-man): A simple Pac-Man clone written in JavaScript, CSS, and HTML.<br />
 [Tic-Tac-Toe](https://github.com/BrendanGasparin/c-tic-tac-toe): I'm writing a Tic-Tac-Toe game in the C language. Two player games are implemented, but I want to create an AI player with various difficulty levels.<br />
