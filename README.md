@@ -35,12 +35,12 @@
 ---
 
 ## I'm currently working on:
+[Google Cybersecurity Professional certificate](https://www.coursera.org/professional-certificates/google-cybersecurity): I am training to become a cybersecurity professional.  
+[CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science): I am taking Hardvard's CS50x course online, as it is an excellent way to brush up on C, Python, SQL, and web development languages, as well as general data structures and algorithms.  
 [100 Days of Code](https://github.com/BrendanGasparin/100-days-of-code/blob/main/log.md): A challenge in which you must code for at least one hour every day, tweet your progress and log it on Github, and encourage at least two other participants a day who are using the #100DaysOfCode hashtag on Twitter/X.  
 [PHP Social Network](https://github.com/BrendanGasparin/php-social-network): A free and open source social network web application written in HTML, CSS, JavaScript, AJAX, PHP, and SQL.  
 [JavaScript Pac-Man](https://brendangasparin.github.io/js-pac-man): A simple Pac-Man clone written in JavaScript, CSS, and HTML.  
 [Tic-Tac-Toe](https://github.com/BrendanGasparin/c-tic-tac-toe): I'm writing a Tic-Tac-Toe game in the C language. Two player games are implemented, but I want to create an AI player with various difficulty levels.  
-[Google Cybersecurity Professional certification](https://www.coursera.org/professional-certificates/google-cybersecurity): I am training to become a cybersecurity professional.  
-[CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science): I am taking Hardvard's CS50 course online, as it is an excellent way to brush up on C, Python, SQL, and web development languages, as well as general data structures and algorithms.  
 
 ---
 
