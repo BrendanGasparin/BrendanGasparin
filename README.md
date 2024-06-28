@@ -1,7 +1,7 @@
 # Brendan Gasparin
 
 ---
-**`Developer, cybersecurity enthusiast, writer, content creator.`**
+**`Developer, writer, content creator, entrepreneur.`**
 
 ---
 
@@ -40,8 +40,42 @@
 [CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science): I am taking Hardvard's CS50x course online, as it is an excellent way to brush up on C, Python, SQL, and web development languages, as well as general data structures and algorithms.  
 [100 Days of Code](https://github.com/BrendanGasparin/100-days-of-code/blob/main/log.md): A challenge in which you must code for at least one hour every day, tweet your progress and log it on Github, and encourage at least two other participants a day who are using the #100DaysOfCode hashtag on Twitter/X.  
 [PHP Social Network](https://github.com/BrendanGasparin/php-social-network): A free and open source social network web application written in HTML, CSS, JavaScript, AJAX, PHP, and SQL.  
-[JavaScript Pac-Man](https://brendangasparin.github.io/js-pac-man): A simple Pac-Man clone written in JavaScript, CSS, and HTML.  
 [Tic-Tac-Toe](https://github.com/BrendanGasparin/c-tic-tac-toe): I'm writing a Tic-Tac-Toe game in the C language. Two player games are implemented, but I want to create an AI player with various difficulty levels.  
+
+---
+
+## Languages and Frameworks
+
+<div style="display:flexbox;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C plus plus" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C Sharp" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" alt="Python" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" />
+</div>
+
+## Tools
+
+<div style="display:flexbox;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="60" />
+  <img src="https://logodix.com/logo/995507.png" alt="Apple" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" alt="Apache" width="60" />
+  <img src="https://cheapestlinuxvps.com/wp-content/uploads/2012/07/wordpress-icon.png" alt="WordPress" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="Git" width="60" />
+  <img src="https://www.shareicon.net/data/512x512/2015/09/15/101512_logo_512x512.png" alt="GitHub" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" alt="Godot" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original-wordmark.svg" alt="GIMP" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="60" />
+</div>
 
 ---
 
@@ -59,47 +93,12 @@ I can be found at the following [online hangouts](https://linktr.ee/brendangaspa
 
 ---
 
-## Languages and Frameworks
-
-<div style="display:flexbox;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C plus plus" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C Sharp" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" alt="Python" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width=60 />
-</div>
-
-## Tools
-
-<div style="display:flexbox;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width=60 />
-  <img src="https://logodix.com/logo/995507.png" alt="Apple" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" alt="Apache" width=60 />
-  <img src="https://cheapestlinuxvps.com/wp-content/uploads/2012/07/wordpress-icon.png" alt="WordPress" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="Git" width=60 />
-  <img src="https://www.shareicon.net/data/512x512/2015/09/15/101512_logo_512x512.png" alt="GitHub" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" alt="Godot" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original-wordmark.svg" alt="GIMP" width=60 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width=60 />
-</div>
-
----
-
 ## Curated Content
 
 [Cybersecurity Resources](https://github.com/BrendanGasparin/list-cybersecurity-resources): A curated list of resources with content focused on cybersecurity.  
 [Hacking and Penetration Testing Resources](https://github.com/BrendanGasparin/list-hacking-resources): A curated list of resources with content focused on hacking and penetration testing.  
 [Programming and Development Resources](https://github.com/BrendanGasparin/list-programming-resources): A curated list of resources with content focused on programming and software development.  
-[B's All Ages Mixtape](https://open.spotify.com/playlist/0OL4b2g6leYS86XMA71uqy?si=5293ad9cf45543bc): A curated Spotify playlist of songs that are safe to play around children (i.e. no explicit content). 13 hours long.  
+[B's All Ages Mixtape](https://open.spotify.com/playlist/0OL4b2g6leYS86XMA71uqy?si=5293ad9cf45543bc): A curated Spotify playlist of songs with no explicit content. 13 hours of child-friendly entertainment.  
 
 <!--
 **BrendanGasparin/BrendanGasparin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
