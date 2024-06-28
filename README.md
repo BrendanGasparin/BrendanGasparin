@@ -9,10 +9,10 @@
 
 ### Cybersecurity Projects
 
-[PHP Login System](https://github.com/brendangasparin/php-login-system/): A login system written in PHP, JavaScript, HTML, and CSS, with a MySQL database. Stores securely hashed passwords to protect authentication credentials in case of database breaches, and uses PHP PDO as a database access layer with placeholders to prevent SQL injection.  
-[Strong Password Generator in C](https://github.com/brendangasparin/c-password-generator): A strong password generator written in the C programming language. This is a console program that you must git clone and compile in order to use. Challenges included taking user input for the password length without allowing them to cause an input buffer overfllow.  
-[Strong Password Generator in JavaScript](https://brendangasparin.github.io/js-password-generator): A strong password generator written in HTML, CSS, and JavaScript. This allows users to generate passwords from a live web interface. After I made the app I realised phone users couldn't easily cut and paste the generated passwords, so a challenge I faced was implementing a button that allows users to copy the generated password to their clipboard for reuse.  
-[Google Home Page Mockup](https://brendangasparin.github.io/google-homepage/): A fake Google homepage written in HTML and CSS for The Odin Project. It's not interactive and does not do anything malicious, but it serves as an example of how to create a phishing site by copying the layout of a legitimate site. It's not responsive on mobile because that was not part of the assignment requirements.  
+[PHP Login System](https://github.com/brendangasparin/php-login-system/): A login system written in PHP, JavaScript, HTML, and CSS, with a SQL database. It transmits securely hashed passwords from the browser to be stored on the server to protect authentication credentials in case of database breaches. It uses PHP PDO as a database access layer with placeholders to prevent SQL injection. The project is based on [this YouTube video](https://youtube.com/watch?v=BaEm2Qv14oU) by [Dani Krossing](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw) but with extra features (such as more feedback for users entering invalid input).  
+[Strong Password Generator in C](https://github.com/brendangasparin/c-password-generator): A strong password generator written in the C programming language. This is a console program that you must git clone and compile in order to use. It generates strong random passwords of any length the user chooses, from 8 to 65,535 characters. Every password is guaranteed to contain an uppercase character, a lowercase character, a digit, and a special character.
+[Strong Password Generator in JavaScript](https://brendangasparin.github.io/js-password-generator): This website is a strong password generator written in HTML, CSS, and JavaScript. It does the same things as the C one but allows users to generate passwords from a live web interface. It has a button to copy the generated password to your device's clipboard that I think is pretty neat.  
+[Google Home Page Mockup](https://brendangasparin.github.io/google-homepage/): A fake Google homepage written in HTML and CSS for The Odin Project. It's not interactive and does not do anything malicious, but it serves as an example of how to create a phishing site by copying the layout and content of a legitimate site. It's not responsive on mobile because that was not part of the assignment requirements.  
 [ROT-13 Converter](https://brendangasparin.github.io/js-rot13/): Encrypt plaintext into ciphertext using the ROT-13 cipher. Written in HTML, CSS, and JavaScript.  
 
 ### Web Development and Web Apps
@@ -30,15 +30,15 @@
 
 [Rock Paper Scissors](https://brendangasparin.github.io/rock-paper-scissors/): Rock, Paper, Scissors written in HTML, CSS, and JavaScript.  
 [Berzerk clone](https://scratch.mit.edu/projects/984200658/): A clone of 1980 video game Berzerk, made with MIT's Scratch platform and my own art assets.  
-[Griffin Flight Simulator](https://scratch.mit.edu/projects/679806917/): A side-scrolling bullet hell game I made on using Scratch.  
+[Griffin Flight Simulator](https://scratch.mit.edu/projects/679806917/): A side-scrolling game I made using Scratch.  
 [Scratch's Big Adventure](https://scratch.mit.edu/projects/392011129/): The first full game I ever made in Scratch.  
 
 ---
 
 ## I'm currently working on:
-[Google Cybersecurity Professional certificate](https://www.coursera.org/professional-certificates/google-cybersecurity): I am training to become a cybersecurity professional.  
-[CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science): I am taking Hardvard's CS50x course online, as it is an excellent way to brush up on C, Python, SQL, and web development languages, as well as general data structures and algorithms.  
 [100 Days of Code](https://github.com/BrendanGasparin/100-days-of-code/blob/main/log.md): A challenge in which you must code for at least one hour every day, tweet your progress and log it on Github, and encourage at least two other participants a day who are using the #100DaysOfCode hashtag on Twitter/X.  
+[CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science): I am taking Hardvard's CS50x course online, as it is an excellent way to brush up on C, Python, SQL, and web development languages, as well as general data structures and algorithms.  
+[Google Cybersecurity Professional certificate](https://www.coursera.org/professional-certificates/google-cybersecurity): I am training to become a cybersecurity professional.  
 [PHP Social Network](https://github.com/BrendanGasparin/php-social-network): A free and open source social network web application written in HTML, CSS, JavaScript, AJAX, PHP, and SQL.  
 [Tic-Tac-Toe](https://github.com/BrendanGasparin/c-tic-tac-toe): I'm writing a Tic-Tac-Toe game in the C language. Two player games are implemented, but I want to create an AI player with various difficulty levels.  
 
@@ -81,15 +81,13 @@
 
 ## Biography
 
-I am a cybersecurity enthusiast, independent developer, writer, and content creator. I live in Tasmania, Australia. I strongly believe in the power of technology to affect positive change in the world and people's lives.
+I am an independent developer, writer, content creator, and entrepreneur who wants to be a cybersecurity engineer. I live in Tasmania, Australia. I strongly believe in the power of technology to affect positive change in the world and people's lives. With great power comes great responsibility.  
 
-I'm running a small [web development startup business](https://cyborgplatypus.com.au/) and writing articles for my [tech blog](https://brendangasparin.com.au/blog/) and [free tech newsletter](https://brendangasparin.com.au/subscribe/). I also write code for at least an hour a day, and am undertaking the Google Cybersecurity Professional certification.
+I run a [personal website and tech blog](https://brendangasparin.com.au/) at [https://brendangasparin.com.au](https://brendangasparin.com.au). All of my [online presences are on my Linktree](https://linktr.ee/brendangasparin).  
 
-Education is vital. I have a Bachelor's Degree in Computing from the University of Tasmania and am self-learning through [freeCodeCamp](https://freecodecamp.org/), [The Odin Project](https://www.theodinproject.com/), [CS50x](https://cs50.harvard.edu/x/), and other platforms.
+I have a Bachelor's Degree in Computing from the University of Tasmania and am continuing self-education through [CS50x](https://cs50.harvard.edu/x/), [freeCodeCamp](https://freecodecamp.org/), [The Odin Project](https://www.theodinproject.com/), [TryHackMe](https://tryhackme.com/), YouTube, and the Google Cybersecurity certificate program on Coursera. I also work on personal projects, which are listed below.  
 
-I live with my best friend [Buddy the Beagador](https://brendangasparin.github.io/buddy/). He is an accomplished web coder who enjoys chewing, sniffing things, and bench-surfing for food.
-
-I can be found at the following [online hangouts](https://linktr.ee/brendangasparin).
+I live with my best friend [Buddy the Beagador](https://brendangasparin.github.io/buddy/). He is an accomplished web coder who enjoys chewing, sniffing things, and bench-surfing for food.  
 
 ---
 
