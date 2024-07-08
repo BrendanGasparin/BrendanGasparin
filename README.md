@@ -22,11 +22,12 @@
 [brendangasparin.com.au](https://brendangasparin.com.au): My personal website, built with WordPress.  
 [Cyborg Platypus](https://cyborgplatypus.com.au): My web development and graphic design business, built with Wordpress and Mautic email marketing software.  
 [Brendan Gasparin's Tech Blog](https://brendangasparin.com.au/blog/): My blog.  
-[Odin Calculator](https://brendangasparin.github.io/odin-calculator/): A calculator written in HTML, CSS, and JavaScript.  
-[Etch-a-Sketch web app](https://brendangasparin.github.io/etch-a-sketch/): An Etch-a-Sketch web app written in HTML, CSS, and JavaScript.  
+[Odin Calculator](https://brendangasparin.github.io/odin-calculator/): A calculator written in HTML, CSS, and JavaScript, for The Odin Project curriculum.  
+[Etch-a-Sketch web app](https://brendangasparin.github.io/etch-a-sketch/): An Etch-a-Sketch web app written in HTML, CSS, and JavaScript, also for The Odin Project curriculum.  
 [Buddy's Homepage](https://brendangasparin.github.io/buddy/): My dog wrote his own homepage. I had to help with the CSS because dogs have dichromatic vision.  
 [CSS art of the Pokemon Gastly](https://brendangasparin.github.io/css-gastly/): CSS animation written in HTML and CSS.  
-[C Tutorial](https://brendangasparin.github.io/c-tutorial/) and [HTML Tutorial](https://brendangasparin.github.io/html-tutorial/): Both written in HTML and CSS.  
+[C Tutorial](https://brendangasparin.github.io/c-tutorial/): A tutorial written in HTML and CSS that aims to teach the basics of the C programming language to new programmers.  
+[HTML Tutorial](https://brendangasparin.github.io/html-tutorial/): A HTML tutorial written in HTML (HTMLception!) and CSS. It aims to take the user from zero knowledge on web design to the completion of a first simple web page.  
 
 ### Games
 
