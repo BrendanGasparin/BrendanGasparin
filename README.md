@@ -39,11 +39,7 @@
 ---
 
 ## I'm currently working on:
-[100 Days of Code](https://github.com/BrendanGasparin/100-days-of-code/blob/main/log.md): A challenge in which you must code for at least one hour every day, tweet your progress and log it on Github, and encourage at least two other participants a day who are using the #100DaysOfCode hashtag on Twitter/X.  
-[CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science): I am taking Hardvard's CS50x course online, as it is an excellent way to brush up on C, Python, SQL, and web development languages, as well as general data structures and algorithms.  
-[Google Cybersecurity Professional certificate](https://www.coursera.org/professional-certificates/google-cybersecurity): I am training to become a cybersecurity professional.  
-[PHP Social Network](https://github.com/BrendanGasparin/php-social-network): A free and open source social network web application written in HTML, CSS, JavaScript, AJAX, PHP, and SQL.  
-[Tic-Tac-Toe](https://github.com/BrendanGasparin/c-tic-tac-toe): I'm writing a Tic-Tac-Toe game in the C language. Two player games are implemented, but I want to create an AI player with various difficulty levels.  
+[Project: SERVERTRON](https://github.com/BrendanGasparin/servertron/): A Proxmox homelab running on a single-node system, serving websites, games, and media.   
 
 ---
 
