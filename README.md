@@ -1,7 +1,7 @@
 # Brendan Gasparin
 
 ---
-**`Developer, writer, content creator, entrepreneur.`**
+**`Developer, writer, content creator.`**
 
 ---
 
